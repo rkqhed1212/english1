@@ -22,11 +22,11 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'oeq31yein6abjykmj%*jtr#$qnnq&arx)n1-y&th!12e7(l2j^'
 
-# SECURITY WARNING: don't run with debug turned on in production!
+# SECURITY WARNING: don't rpyun with debug turned on in production!
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'ec2-15-164-224-244.ap-northeast-2.compute.amazonaws.com'
+    "ec2-15-164-224-244.ap-northeast-2.compute.amazonaws.com"
 ]
 
 
